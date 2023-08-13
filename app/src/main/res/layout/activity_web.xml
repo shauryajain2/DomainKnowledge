@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".web"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="About WEB"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages.
+      What is web development for what is used?
+Web development, also known as website development, refers to the tasks associated with creating, building, and maintaining websites and web applications that run online on a browser. It may, however, also include web design, web programming, and database management."
+            android:textSize="20dp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="IMPORTANCE"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Web development is a way of increasing traffic, engagement and conversion rates for a website because it can help you to create a site that is easy to navigate. This will help users to find what they're looking for quickly, which can increase the likelihood that they will return to your site in future.
+    Any business, regardless of size and industry, needs a website. Whether you want to drive sales through digital channels, showcase your portfolio, or raise awareness about a cause, web development services are the first endeavour to budget for. Some people may argue that social media platforms have overshadowed websites, but this is still not the case.
+
+While mobile devices and apps are ubiquitous, a flawless website visible in Google is the key prerequisite for success. It is an indispensable automation tool for sales! Here are five major reasons why structuring a solid web presence should be your first priority."
+            android:textSize="20dp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"/>
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>
